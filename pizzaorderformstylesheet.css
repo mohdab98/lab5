@@ -1,0 +1,71 @@
+body{
+    background-color: #01dddd;
+}
+
+.form1 {
+    margin: 20px;
+    margin-bottom: 100px;
+}
+
+.form2 {
+    margin: 20px;
+    margin-left: 25vw;
+    margin-bottom: 100px;
+    display: none;
+}
+
+#title{
+    text-align: center;
+}
+
+.slider p {
+    display: inline-block;
+}
+
+.slider img {
+    display: block;
+    width: 100px;
+    background-color: aqua;
+}
+
+fieldset {
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.form2 input, select, textarea {
+    border: 0ch;
+    border-radius: 5px;
+}
+
+.form2 input {
+    width: 70%;
+    height: 25px;
+}
+
+.form2 select {
+    width: 65%;
+    height: 25px;
+}
+
+.form2 textarea {
+    width: 70%;
+}
+
+#OrderSummary{
+    display: none;
+    width: 50vw;
+    margin-left: 25vw;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: green;
+    border-style: solid;
+    border-width: thick;
+    background-color: #ffffff;
+}
+
+#next1 {
+    margin:20px;
+}
+   
